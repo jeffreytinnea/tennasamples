@@ -1,0 +1,12 @@
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\JeffreyTinneaOptimizedMath\bin\Debug\JeffreyTinneaOptimizedMath.exe.config
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\JeffreyTinneaOptimizedMath\bin\Debug\JeffreyTinneaOptimizedMath.exe
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\JeffreyTinneaOptimizedMath\bin\Debug\JeffreyTinneaOptimizedMath.pdb
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\JeffreyTinneaOptimizedMath\obj\Debug\JeffreyTinneaOptimizedMath.csprojResolveAssemblyReference.cache
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\JeffreyTinneaOptimizedMath\obj\Debug\JeffreyTinneaOptimizedMath.exe
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\JeffreyTinneaOptimizedMath\obj\Debug\JeffreyTinneaOptimizedMath.pdb
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\bin\Debug\JeffreyTinneaOptimizedMath.exe.config
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\obj\Debug\JeffreyTinneaOptimizedMath.exe
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\obj\Debug\JeffreyTinneaOptimizedMath.pdb
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\bin\Debug\JeffreyTinneaOptimizedMath.exe
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\bin\Debug\JeffreyTinneaOptimizedMath.pdb
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaOptimizedMath\obj\Debug\JeffreyTinneaOptimizedMath.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaThreadSynchronization\bin\Debug\JeffreyTinneaThreadSynchronization.exe.config
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaThreadSynchronization\bin\Debug\JeffreyTinneaThreadSynchronization.exe
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaThreadSynchronization\bin\Debug\JeffreyTinneaThreadSynchronization.pdb
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaThreadSynchronization\obj\Debug\JeffreyTinneaThreadSynchronization.csprojResolveAssemblyReference.cache
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaThreadSynchronization\obj\Debug\JeffreyTinneaThreadSynchronization.exe
+D:\Users\jtinnea\Documents\Code\Tenna Problems\JeffreyTinneaThreadSynchronization\obj\Debug\JeffreyTinneaThreadSynchronization.pdb
